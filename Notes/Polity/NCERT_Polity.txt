@@ -1,6 +1,6 @@
 __________________________________________________________________________________________________________________________________________________________________
 
-Class 6 - Polity [Diversity and Government]
+Class 6 - Polity
 ________________
 
 [Diversity]
@@ -66,7 +66,7 @@ ________________
 
 [Panchayati Raj]
 
-- Gram Sabha : Meeting of all the adults who live int he area covered by a pachayat
+- Gram Sabha : Meeting of all the adults who live in the area covered by a pachayat
 	. headed by Sarpanch
 	. Village is divided into wards - representative called panch/ward member
 
@@ -127,8 +127,8 @@ ________________
 
 - Equality under constitution (provision available)
 	. every person is equal
-	. every person is equal before th elaw
-	. no-one can be discriminated against on the basis of their religion, race, caste, place of birth or gender
+	. every person is equal before the law
+	. no-one can be discriminated on the basis of their religion, race, caste, place of birth or gender
 	. every person has access to all the public places
 	. untouchability has been abolished
 	. Addressed by Govt. in 2 ways
@@ -211,7 +211,7 @@ Basic facilities provided by state at very low cost or free
 	. writing letters to concerned minister
 	. organizing a public protest
 	. starting a signature campaign
-	. sking the govt. to rethink on its programme
+	. telling the govt. to rethink on its programme
 - Independent Media (should not be controlled by govt.)
 	. govt. prevents either a news item, scenes from a movie, lyrics of a song
 	. referred censorship
@@ -227,3 +227,322 @@ Basic facilities provided by state at very low cost or free
 		. govt scheme advts
 	- equality to be maintained
 		. inequal concept because rich people or party can advertise more
+__________________________________________________________________________________________________________________________________________________________________
+
+Class 8 - Polity
+________________
+
+[FEATURES OF INDIAN CONSTITUTION]
+
+=> Purposes
+	. Ideals - justice, equality, democracy, sovereignity etc. which people want for themselves
+	. expresses nature of contry's political system
+	. ensure that a dominant group does not use its power against other , less powerful people or groups
+	. save us from ourselves - taking extreme steps to save ourselves from a major effect of any issue
+		ex. prevention of punishment to the culprits by brutality like Nirbhaya case, people wanted to brutally kill culprits
+
+=> Factors influencing the making of Constitution
+	. Long colonial rule - british rule - adopted parliamentary rule from british govt
+	. Different communities - satisfy all the communities equally
+	. Partition of India - to make people migrating from Pakistan feel as comfortable as the original Indians - to prevent violence
+	. Socio economic condition of the country - poverty, starvation, no-health, no-govt-money etc.
+	. Maintaining diversity and preserving national unity - maintaining the culture from Kashmir to Kanyakumari at the same time maintaining equality
+
+=> FEATURES
+	. FEDERALISM 	- More than one level of govt - all levels are independent than each other
+					- Rationale for this : 	specific decision for particular area
+											Constitution contains lists that detail the issues that each tier of govt can make laws according to diff requirements of that area
+
+	. PARLIAMENTARY FORM 	- guarantees universal adult suffrage for all citizens
+							- the people of India have a direct role in electing their representatives
+
+	. SEPARATION OF POWERS 	- separate legislatures, separate executives, separate judiciary
+							- legislatures 	- elected by people
+							- executives 	- implementers of laws
+							- Judiciary 	- courts
+							- Why? prevent misuse of power by any single branch by letting each other supervise one-anothers
+
+	. FUNDAMENTAL RIGHTS 	- Conscience of Indian Constitution
+							- protect citizens against the arbitrary and absolute exercise of power by state
+							- Objective 	- every citizen must be in a position to claim those rights
+											- these rights must be binding upon every authority that has got the power to make laws
+
+	. SECULAR 	- Does not follow or promote any religion officially
+
+=> DIFFERENCE BETWEEN STATE AND GOVT
+	. STATE 	- political institution that represents a sovereign people who occupy a definite territory.
+				- Montevideo convention requirements
+					. govt.
+					. defined territory
+					. people as citizens
+					. make external relations
+				- Continuous organization and does not keep on changing
+	. GOVT 		- responsible for administering and enforcing the laws onto the state
+				- Change with elections
+
+[SECULARISM]
+
+Separation of religion from the state - neither has interference with another
+Rationale	- tyranny of the majority and the violation of fundamental rights of equality - only majority religion can be given to state and that's not possible
+			- need to protect the freedom of individuals to exit from their religion, embrace another religion or have the freedom to interpret religious teachings differently
+
+INDIAN SECULARISM
+
+Objectives	- one religious community does not dominate another
+			- some members do not dominate other members of the same religious community - sadhu baba cannot influence others
+			- the state does not enforce any particular religion nor take away the religios freedom of individual
+
+Ways to Ensure Secularism
+
+	Strategy of distancing itself from religion - The Indian state is not ruled by a religious group and nor does it support any one religion.
+
+	Strategy of non-interference - in order to respect the sentiments of all religions and not interfere with religious practices, the state make certain exceptions for particular religious communities ... If a religion goes against fundamental rights it will intervene ... like Hindu Code Bill for Dowry etc.
+
+	Strategy of intervention - prevent this religion-based exclusion and discrimination of 'lower caste', untouchability is banned.
+							 - Similarly, to ensure that laws relating to equal inherintance rights are respected, the state may have to intervene in the religion-based 'personal laws' of communities.
+							 - Can be of in form of support - Indian constitution grants the right to religious communities to set up their own schools and colleges and gives them financial aid on a non-preferential basis.
+
+[PARLIAMENT]
+
+Why? enables citizens of India to participate in decision making
+	 control the government
+
+FUNCTIONS
+	-> To select the National Govt
+		. Parliament of India consists of the President (not a member of parliament), the Rajya Sabha and the Lok Sabha
+		. Highest seats party is ruling party in the Lok Sabha
+	-> Selection of Executive	
+		. PM of India is the leader of ruling party in the Lok Sabha
+		. From the MPs who belong to her party, the PM selects ministers and they then take charge of different areas of govt functioning lke health, education, finance etc.
+
+	-> COALITION GOVT - Majority to form the govt may get difficult. Parties join together who are interested in similar concerns.
+
+	-> Rajya Sabha - Representative of the states of India in parl.
+				   - It can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to beocme a law. It, therefore has an important role of reviewing and altering the laws initiated by the Lok Sabha.
+
+   	-> To control, guide and inform the Govt
+   		. the parl, session begins with a question hour called a zero hour (1 hour)
+   		. zero hour stretches to agenda of the day and carried out througout the day.
+   		. through MPs can elicit information about the working of the govt.
+   		. MPs as representatives of the people have a central role in controling, guiding and informing govt
+   		. LAW MAKING
+
+[RULE OF LAW]
+
+Dygies
+
+- all laws apply equally to all citizens of the country and no-one can be above the law (Law is supreme)
+- Dispute 	:- british colonialists introduced rule of law
+			 - historians say - colonial law was arbitrary
+			 				  - Indian nationalists played a prominent role in the development of the legal sphere in british India.
+
+FACTORS INFLUENCING LAW MAKING
+
+- Sensitive to the problems faced by people
+- people might criticise this law, hold public meetings, write about it in newspapers, report to TV news channels etc.
+- citizens can express their unwillingness to accept repressive laws framed by the Parliament
+	- amendment
+	- repealed
+
+[JUCICIARY]
+
+-> mechanism of courts that a citizen can approach when a law is violated
+-> Checking the interpretation of law by public and how the law is implemented
+
+=> ROLE OF JUDICIARY
+	. Dispute resolution (dispute between 2 states, state and center etc.)
+	. Judicial Review 	- If a law is violative to fundamental rights, they review it
+						- If found they may declare them void and null and uncontitutional, meaning it is no-further existing
+						- High-court and supreme court has power
+						- article-13 of constitution
+						- Law means all the laws, rules, ordinances, regulations etc.
+	. Upholding the Law and Enforcing Fundamental Rights
+		----------------------------------------------------------------
+		 Paschim Banga Khet Mazdoor Samity vs State of West Bengal 1996
+		----------------------------------------------------------------
+			An agricultural labourer who fell from a running train and injured himself and whose condition got worse because several hospitals refused to admit him. On hearing his case, the Supreme Court ruled that Article-21 which provides every citizen the Fundamental Right to Life also includes the Right to Health. It, therefore directed the West Bengal govt to pay him compensation for the loss suffered as well as to come up with a blueprint for priamry healthcare with particular reference to treatment of patients during an emergency.
+
+=> INDEPENDENCE OF JUDICIARY
+	if influenced by govt the decisions would come only in favour of govt which defies the objective of judiciary.
+
+	. executive and legislature cannot interfere
+	. courts are not under the govt and do not act on their behalf
+	. Judges in the high court and supreme court are appointed with very little interference form other branches of govt
+	. Difficult to remove judge - proper procedure - none of the judges have been impeached yet
+
+=> STRUCTURE OF COURTS IN INDIA
+	. Supreme court located in New Delhi and presided by Chief Justice of India. Decisions of Supreme Court are binding on all other courts of India.
+	. High Court - highest court of the state
+				 - headed by chief justice
+				 - first established in Calcutta, Bombay and Madras in 1862
+	. District Court - subbordinate court
+			- Trial court or the Court of the District Judge
+			- Additional Sessions Judge
+			- Chief Judicial Magistrate
+			- Metropolitan Magistrate
+			- Civil Judge
+
+	. Integrated Judiciary - decisions made by higher courts are binding on the lower courts
+						   - the appelate system that exists in India (decisions made in lower courts can be appealed in higher courts)
+							(higher order (center) of legislature or executives don't affect the lower order (states, districts))
+
+	. PUBLIC INTEREST LITIGATION [PIL]
+		- provision made by court If a person or victim is not able to reach to the court for justice
+		- allowed any individual or organization to file a PIL in the High Court or the Supreme Court on behalf of those whose rights were being violated
+		- why? to increase access to justice
+		- The legal process was greatly simplified and even a letter or telegram addressed to the Supreme Court or High Court were treated as a PIL.
+		- how it is used?
+			. rescuing bonded labourers from inhumane work
+			. securing the release of prisoners in Bihar who had been kept in jail even after their punishment term was complete.
+			. The judgement of the OLGA TELLIS vs Bombay Municipal Corporation established the Right to Livelihood as part of the Right to Life.
+
+=> CRIMINAL LAW AND CIVIL LAW
+
+	-> CRIMINAL LAW
+		- illegal offenses are only illegal if law defines it - live in relationship
+		- Deals with conduct or acts that the law defines as offenses - theft, murder, harassing woman to bring more dowry
+		- Begins with lodging of an FIR with the police who investigate the crime after which a case (chargesheet) is filed in the court.
+		- If found guilty, the accused can be sent to jail and also fined
+			- FIR (person lodging, person recording, witnesses, information about offense, date and time and place of offense as well as FIR, known or unknown accused)
+			- Prosecution - state who was supposed to maintain law and order but could not when offense happened and other party is the individual who is being accused or in terms criminal (criminal is prosecuted by state)
+			- dispute between an individual(criminal) and a state
+
+	-> CIVIL LAW
+		- Deals with harm or inury to rights of individuals - disputes relating to sale of land, purchase of goods, rent etc.
+		- Petition has to be filed before the relevant courty by the affected paty only. In a rent matter, either the landlord or tenant can file a case.
+		- The court gives the specific relief asked for. - landlord and tenant dispute the court can order tenant to pay pending rent and flat vacated etc.
+			- Only the affected party can file a petition but diluted for fundamental rights violation
+			- dispute between 2 individuals
+
+=> CRIMINAL JUSTICE SYSTEM
+
+- Police, public prosecutor, the defence lawyer and the judge
+
+	POLICE 	- investigate any complaint about the commision of a crime
+			- investigation includes recording statements of witnesses and collecting different kind of evidences.
+			- if police finds enough evidence that points to the guilt of the accused person, then they file a chargesheet in the court
+			- guidelines by Supreme Court for police at time of arrest, detention and interrogation
+				- not allowed to torture or beat or shoot anyone during investigation
+				- cannot inflict any form of punishment on a person even for petty offences.
+
+	-> ARTICLE 22 - Criminal Law Guarantee to Every Arrested Person
+
+		. informed about the offence of arrest
+		. presented before magistrate within 24 hours of arrest (excluding transport time - because magistrate may not be nearer)
+		. not to be ill treated or tortured during arrest or in custody
+		. confessions made in police custody cannot be used as evidence against the accused
+		. A boy under 15 and women cannot be called to the police station only for questioning (after the sunset till sunrise and only women constable)
+
+	-> DK BASU GUIDELINES
+
+		Specific requirements and procedures that the police and other agencies have to follow for the arrest, detention and interrogation of any person by Supreme Court
+
+		- Police wear clear, accurate and visible ID and name tags with designations
+		- A memo or arrest should be prepared at the time of arrest and should include the time and date of arrest. It should also be attested by at least one witness who could include a family member of the person arrested. The arrest memo should be counter-signed by the person arrested.
+		- Right to inform a relative, friend
+			if he lives outside the district, the time place of arrest and venue of custody must be notified by police within 8 to 12 hours after arrest.
+
+	-> FIR
+		- Registration of FIR leads to starting of investigation
+		- The law states that it is compulsory for an officer in charge of a police station to register an FIR whenever a person gives information about a cognizable offence (An offence does not require an arrest warrant)
+			Cognizable - bigger crimes such as Murder, Rape, Robbery (person can be arrested without arrest warrant)
+			Non-cognizable - smaller like chain snatching etc.
+		- The information can be given to the police either orally or in writing. The FIR usually mentiones the date, time and place of the offence, details the basic facts of the offence, including a description of the events.
+		- If known, the identity of the accused persons and witnesses is also mentioned.
+		- The FIR also states the name and address of the complainant. There is a prescribed form in which the police registers an FIR and it is signed by the complainant. The complainant also has a legal right to get a free copy of the FIR from the police.
+
+	PUBLIC PROSECUTOR
+
+		- Two parties : 'criminal or accused' and 'state or prosecution'
+		- State was unable to maintain the law and order.
+		- Public prosecutor has no role in investigation. The role of him starts after the police has conducted the investigation and filed a chargesheet in the court.
+		- Public prosecutor must conduct the prosecution on behalf of the State.
+
+	JUDGE
+
+		- Conducts the trial impartially and in an open court. (close court : in camera trials in some cases like rape where only few people are present)
+		- The judge hears all the witnesses and any other evidence presented by the prosecution and the defence.
+		- The judge decides whether the accused person is guilty or innocent on the basis of the evidence presented and in accordance with the law.
+			. according to law - Nirbhaya case minor was not punished as adult.
+		- If the accused is convicted, then the judge pronounces the sentence.
+
+	FAIR TRIAL
+
+		- None of the party should be at loss and both of them should be given chance to present their part.
+		- ARTICLE 21 should be upheld.
+		- The trial was held in an open court, in public view. The trial was held in the presence of the accused.
+		- defended by a lawyer.
+		- given an opportunity to cross-examine all the prosecution witnesses.
+		- was given an opportunity to present witnesses.
+		- It was the responsibility of the prosecution to prove beyond reasonable doubt. The judge should be having not even a minute doubt regarding criminal offence. Prosecution will have to go beyond resonable doubt and prove the matter.
+		- It is significant that the judge decides the matter only on the basis of the evidence before the court. Evidence only presented in the court are reviewed and other evidences are not taken into account and Judge cannot form his personal opinion.
+
+[ MARGINALISED ]
+
+=> ADIVASIS
+	- literally 'Original Inhabitants' - communities live in forest proximities from eternity
+	- numerous in states like Chhatisgarh, Jharkhand, Madhya Pradesh, Orissa, Gujarat, Maharashtra, Rajasthan, Andhra Pradesh, West Bengal and North-Eastern states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizzoram, Nagaland and Tripura
+	- Adivasi societies are also most distinctive because there is often very little hierarchy among them. This makes them radically different from communities organised around principles of jati-varna (caste) or those that were ruled by kings.
+
+=> ADIVASI AND DEVELOPMENT
+	- because they are losing their land of forest in the name of development
+	- they are losing main source of livelihood and food
+	- when they displace, they lose much more than a source of income. Traditions, customs - way of living and being
+	- The term minority is most commonly used to refer to communities that are numerically small in relation to the rest of the population. However, it is a concept that goes well beyond numbers. It encompasses issues of power access to resources and has social and cultural dimensions.
+
+=> MUSLIMS AND MARGINALISATION
+	- Chaired by Justice Rajindar Sachar, the committee examined the social, economic and educational status of the Muslim community in India. The report discusses in detail the marginalization of this community. It suggests that on a range of social, economic and educational indicators the situation of the Muslim community is comparable to that of other marginalized communities like SC and ST.
+	- Muslims customs and practices are sometimes quite distinct.
+
+=> GHETTOISATION
+	- This marginalization led Muslims to migrate from places where they have lived and formed ghettos so that they don't feel marginalised.
+	- Various social, cultural and economic reasons, fear or hostility may also compel a community to gorup together as they feel more secure living amongst their own.
+
+=> CONSTITUTION ON MARGINALISATION
+	- 2 Ways 	- by insisting on their Fundamental Rights, they have forced the govt to recognize the injustice done to them.
+				- they have insisted the govt to enforce the laws
+
+	ARTICLE 15
+		. no citizen of India shall be discriminated against on the basis of religion, race, caste, sex of place of birth.
+		
+		LAWS OF MARGINALISED
+			- Promoting Social Justice 	- reservation policy
+										- argument is in society where for centuries sections of the population have been denied opportunities to learn and to wok in order to develop new skills or vocations.
+
+			- Protecting the rights Dalits and Adivasis - THE SCHEDULED CASTES AND SCHEDULED TRIBES ACT 1989 (Preventions of Atrocities)
+				. modes of humiliations that are physically horrific and morally reprehensible and seeks to punish those who
+					i> force to drink or eat any inedible or obnoxious substance;
+					ii> forcibly removes clothes or parades him naked or with painted faces or body or commits any similar act which is derogatory to human dignity
+
+				. actions that dispossess Dalits and Adivasis of their meagre resources or which force them into performing slave labor. Thus, the Act sets out to punish anyone who
+					iv> wrongfully occupies or cultivates any land owned by, or allotted to SC/ST or gets the land allotted to him transferred.
+					v> crimes against Dalit and tribal woman like exploitation of their resources, fraud, physical or mental torture etc.
+
+			- Adivasi Demands - Act 1989
+				. Those who have forcibly encroached upon tribal lands should be punished under this law.
+				. That land belonging to tribal people cannot be sold to or bought by non-tribal people
+				. Allow non-tribal encroachers in the form of timber merchants, paper mills etc, to exploit tribal land and to forcibly evict tribal people from their traditional forests in the process of declaring forests as reserved or as sanctuaries.
+
+			- Recognition of Forest Rights - SCHEDULED TRIBES AND OTHER TRADITIONAL FOREST DWELLERS ACT 2006
+				. This act is meant to undo the historical injustices meted out to forest dwelling populations in not recognizing their rights to land and resources.
+				. This act recognizes their right to homestead, cultivable and grazing land and to non-timber forest produce.
+				. The Act also points out that the rights of forest dwellers includes conservation of forests and bio-diversity.
+
+[ PUBLIC FACILITIES ]
+
+- The most basic facilities which are essential for human being to survive - health care, sanitation, schools, colleges etc.
+- govt. ensure that these are available to EVERYONE
+- no profit to be had
+- Public facilities relate to people's basic needs
+
+=> WATER 
+	. The Constitution of India recognizes the right to water as being a part of Right to Life under Article 21.
+	. Doesn't mean everyone should be provided RO purified water.
+	. There should be universal access to water - decently cleaned and should not be containing major disease causing microbes and properly treated
+
+	UNION CARBIDE
+	. safety laws were lax in India - weak laws
+	. weak enforcement of weak laws
+	. NEW LAWS to protect ENVIRONMENT
+		- SUBHASH KUMAR vs STATE OF BIHAR (1991)
+			Right to pollution free water and air for full enjoyment of life under Fundamental Right to Life of Article 21.
