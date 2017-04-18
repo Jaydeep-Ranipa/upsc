@@ -441,6 +441,7 @@ FACTORS INFLUENCING LAW MAKING
 		- A memo or arrest should be prepared at the time of arrest and should include the time and date of arrest. It should also be attested by at least one witness who could include a family member of the person arrested. The arrest memo should be counter-signed by the person arrested.
 		- Right to inform a relative, friend
 			if he lives outside the district, the time place of arrest and venue of custody must be notified by police within 8 to 12 hours after arrest.
+		- Right to consult a lawyer or engage for his defence
 
 	-> FIR
 		- Registration of FIR leads to starting of investigation
@@ -696,3 +697,214 @@ INSTITUTIONS
 
 [ PARLIAMENT ]
 
+An assembly of elected representatives exercising supreme political authority on behalf of the people.
+At the state level it is Legislature or Legislative Assembly
+Parliament consists of the President and two houses namely Lok Sabha and Rajya Sabha
+
+NEED
+	- the final authority for making laws
+	- control over the govt so long as they enjoy support of parl (opposition keeps a check on ruling party)
+	- control all the money that govt have (consolidated, contingency, public accounts)
+	- the highest forum of discussion and debate on public issues and national policy
+
+HOUSES
+	- Most large countries - called Chambers or Houses
+	- HOUSE OF PEOPLE 	- directly elected by the people
+						- real power on behalf the people
+						- Centrally Lok Sabha and at state level Vidhan Sabha
+	- COUNCIL OF STATES - perfom special functions
+						- look after the interests of various states, regions or federal units
+						- Centrally Rajya Sabha and in some of the large states Vidhan Parishad
+
+DIFFERENCE
+
+	- Joint session 	- Dead lock for some issues between two houses, Prez can call a joint session from both the houses and the session is headed by the Speaker of Lok Sabha
+	- Lok Sabha exercises more powers in money matters. Because it is the money of people and decision power is in the hands of directly elected public representatives
+	- Rajya Sabha can only delay it by 14 days or suggest changes it. If not returned it is considered passed.
+	- The lok sabha controls the council of ministers.
+	- 'no confidence' in the Council of ministers, all ministers including the Prime Minister, have to quit.
+	- The Rajya sabha does not have power.
+
+
+[ EXECUTIVE ]
+
+They are in charge of the 'execution' of the policies of govt.
+Political - Elected by people (ministers)
+Permanent - Civil Servents (bureaucracy)
+
+PERMANENT
+	civil servants
+	remain in office even when the ruling party changes
+	these officers work under political executive
+	civil servant is usually more educated and has more expert knowledge of the subject
+		Eg - The advisors working in Finance Ministry know more about economics than the Finance Minister
+
+POLITICAL
+	minister is 	elected by people
+					empowered to exercise the will of the people on their behalf
+					answerable to the people
+					not a matter expert
+
+The President
+	Head of the state but not the govt
+	not elected directly by people
+	but by MLAs and MPs
+	Proportionate election by single transferable vote
+
+	FUNCTIONS
+	- only nominal powers
+	- govt activities in her name
+	- all laws and major policy decisions of the govt are issued under her name
+	- all major appointments
+	 	. chief Justice of India
+	 	. Judges of Supreme Court
+	 	. Judges of High Courts
+	 	. Governors of the States
+	 	. Election Commissioners
+	 	. Ambassadors to other countries are done under her name
+ 	- all international treaties and agreements are made in her name
+ 	- the President is the supreme commander of the defense forces of India
+
+ 	De Facto is Prime Minister - Actual power is with Prime Minister
+ 	De Jure is President - Name is of the President
+
+ 	- The President exercises all these powers only on the advice of the Council of Ministers
+ 	- The president can ask the Council of Ministers to reconsider its advice. But if the same advice is given again, she is bound to act according to it.
+ 	- Similarly, with the parliament also. A bill can be once sent back to parl but if returns without any change Prez will have to sign it.
+ 		(This is to prevent the President from being monarch since he has most of the powers)
+
+
+	DESCRETIONS
+
+		- Appoint the PM , when no party or coalition gets a majority in the Lok Sabha, the prez exercises her descretion.
+		- The President can ask the newly appointed PM to prove majority support in the Lok Sabha within a specified time if not proven the second highest party may form a govt
+
+[ PRIME MINISTER AND CABINET ]
+
+Appointment
+	President appoints the leader of the majority party or the coalition of parties that commands a majority in the Lok Sabha, as Prime Minister.
+Tenure
+	Not fixed tenure, remains as the Prime Minister as long she remains the leader of the majority party or coalition. If she loses the vote of confidence, she might lose the post
+
+Council of Ministers
+	All the ministers together form a council of ministers and among them the important ministers form together a CABINET.
+	President appoints the ministers on the Advice of PM.
+	Ministers are usually from majority party or coalition.
+	Person who is not a member of Parliament can also become a minister, The same person needs to become a MP within 6 months in order to remain as minister.
+
+Three types of Ministers
+CABINET
+	- most important ministries (Finance, Home, Defense, Foreign etc.)
+	- usually top level leaders
+	- inner ring of council of ministers
+
+Ministers of State with independent charge are usually in-charge of smaller ministries.
+	participate in the cabinet meetings only when specially invited.
+
+Ministers of State
+	attached to and required to assist cabinet ministers.
+
+CABINET FORM OF GOVT
+	All ministers cannot meet regularly and discuss everything, the decisions are taken in cabinet meetings.
+	The cabinet works as a team.
+	No criticism
+	The cabinet as a team is assisted by the cabinet secretariat.
+
+POWER of PM
+	
+	- chairs the cabinet meetings
+	- coordinates the work of different depts
+	- his decisions are final in cast of disagreements arise between depts
+	- exercises general supervision of different ministries
+	- all ministers work under his leadership
+	- PM distributes and redistributes work to the ministers.
+	- has the power to dismiss a minister
+	- PM quits, entire ministry quits
+
+
+[ JUDICIARY AND FUNDAMENTAL RIGHTS ]
+
+SUPREME COURT
+	- Highest court of appeal in civil and criminal cases
+	- can hear appeals against the decisions of high courts
+	- Can take up any dispute
+	- Between citizens and govt, among citizens, two or more state govts, central govt and state govt
+
+Removal of Judge
+	- as difficult as removing the president
+	- can be removed only by an impeachment motion passed separately by 2/3 majority in the two houses of the parl.
+	- not exercised yet
+
+Most Powerful Judiciary in the World
+	- power to interpret the Constitution of the Country
+	- can delcare invalid any law of the legislature or the actions of the executive
+	- judicial review
+	- The Supreme Court of India has also ruled that the core or basic principles of the  Constitution cannot be changed by the parl. (Keshavanand Bharti Case)
+
+RIGHTS
+	- claims made against other people living in same society for person's proper survival
+	- Claims of a person over other fellow beings, over the society and over the govt.
+	- Rigts are reasonable claims of persons recognised by society and sanctioned by law.
+
+	Right to Equality
+		- Govt shall not deny to any person in India the equality before the law or the equal protection of the laws
+
+	Right to Freedom
+		- speech and expression
+		- assembly in a peaceful manner
+		- form associatons and unions
+		- move freely throughout the country
+		- reside in any part of the country
+		- practice any profession, or to carry on any occupation, trade or business
+
+	ARTICLE 21
+		- No preson can be deprived of his life or personal liberty except according to procedure established by law
+		- even when they do, they have to follow some procedures (ref. DK BASU guidelines)
+
+	Right against Exploitations
+		- Constitution mentions 3 specific evils and declares them illegal.
+		1. Human Trafficing - selling and buying of human beings, usually women for immoral purposes
+		2. Begar (forced labour) - practice where the worker is forced to render service to the master free of charge or at a nominal remuneration. When this practice takes place on a life-long basis, it is called the practice of bonded labour. (Bandhua Majdoor)
+		3. Child Labour - No one can employ a child below the age of fourteen to work in any factory or mine or in any other hazardous work such as railways and ports.
+
+	Right to freedom of Religion
+		- right to profess, practice and propagate the religion
+		- every religious group or sect is free to manage its religious affairs.
+		- a person is free to change religion ono his or her own will (cannot force someone but convince to change)
+
+	Cultural and Educational
+		- Any section of citizens with a distict language or culture have a right to conserve it. (2 kinds of minorities - religious and linguistic)
+		- admission to any educational institution maintained by govt or receiving govt aid cannot be denied to any citizen on the ground of religion or language
+		- all minorities have the right to establish and administer educational institutions of their choice.
+
+	Right to Constitional Remedies
+		- 'The Heart and Soul' of the Constitution by Dr. Ambedkar
+			because all other rights become infructus if this right is not available
+		- Fundamental Rights are guaranteed against the actions of the Legislatures, the Executive and any other authorities institued by the govt.
+
+	EXTENSION OF RIGHTS (Article 21)
+		- Right to privacy, so that citizens or their home cannot be searched, their phones cannot be tapped, their communication cannot be opened.
+		- Right to environment, that is not harmful to their health or wellbeing.
+		- Right to have access to adequate housing.
+		- Right to have access to health care services, sufficient food and water; no one may be refused emergency medical treatment.
+
+INTERNATION COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS [ICESCR]
+
+	. This international covenant recognizes many rights that are not directly a part of the Fundamental Rights in the Indian Constitution
+		because India is not yet monetarily sufficient country to provide such rights
+	. This include:
+		- right to work: opportunity to everyone to earn livelihood by working
+		- right to safe and healthy working conditions, fair wages that can provide decent standard of living for the workers and their families
+		- right to adequate standard of living including adequate food, clothing and housing
+		- right to social security and insurance
+		- right to health: medical care during illness, special care for women during childbirht and prevention of epidemics
+		- right to education(Article 21A): free and compulsory primary education, equal access to higher education
+
+THE PRESIDENTIAL SYSTEM (ours is parliamentary system)
+	
+	. The President is both the head of the state and head of the govt.
+		The President of USA. Elected directly by the people. He personally chooses and appoints all ministers.
+	. The law making is still done by the legislature (called congress in US), but the president can veto any law.
+	. Most importantly, the president does not need the support of the majority of members in the Congress and neither is he answerable to them.
+	. He has fixed tenure of four years and completes it even if his party does not have a majority in the Congress.
+	. This model is followed in most of the countries of Latin America and many of the ex-Soviet Union countries.
